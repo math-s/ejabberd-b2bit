@@ -1,0 +1,1 @@
+# ejabberd-b2bit
